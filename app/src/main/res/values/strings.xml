@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InstaWalk</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="no_items">There are no items to show</string>
+</resources>
